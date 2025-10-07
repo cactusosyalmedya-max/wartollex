@@ -1,0 +1,34 @@
+{
+  "default": [
+    {
+      "id": "watch_long_videos",
+      "description": "Watch 3 long videos from today's playlist",
+      "points": 30,
+      "link": "https://example.com/long-videos"
+    },
+    {
+      "id": "watch_short_videos",
+      "description": "Watch 5 short videos",
+      "points": 20,
+      "link": "https://example.com/shorts"
+    },
+    {
+      "id": "like_posts",
+      "description": "Like 10 community posts",
+      "points": 15,
+      "link": "https://example.com/community"
+    },
+    {
+      "id": "comment_posts",
+      "description": "Leave 3 meaningful comments",
+      "points": 25,
+      "link": "https://example.com/discussions"
+    },
+    {
+      "id": "share_content",
+      "description": "Share 2 pieces of content with friends",
+      "points": 10,
+      "link": "https://example.com/share"
+    }
+  ]
+}
